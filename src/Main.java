@@ -50,7 +50,6 @@ public class Main {
         System.out.println("общая масса двух бойцов равна="+ sumWeight+ " кг");
         System.out.println("Разница в весе между двумя бойцами равна="+ Math.abs(differWeight) + " кг");
         //Task 7
-
         System.out.println("***Задача №7***");
         differWeight=weightBoxer_2-weightBoxer_1;
         //вычитание из большой массы меньшей
